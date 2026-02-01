@@ -1,0 +1,4 @@
+module CSDFormat {
+    header "SDFormatBridge.h"
+    export *
+}

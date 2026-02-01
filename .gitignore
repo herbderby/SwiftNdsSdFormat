@@ -1,0 +1,19 @@
+# Build Artifacts
+build/
+.build/
+Package.resolved
+*.o
+*.a
+
+# macOS System Files
+.DS_Store
+._*
+
+# VS Code
+.vscode/*
+.history/
+
+# AI
+.gemini/
+.agent
+.mcp.json
